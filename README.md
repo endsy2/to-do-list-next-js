@@ -35,7 +35,7 @@ Other scripts:
 ```bash
 npm run build    # production build (also type-checks)
 npm start        # serve the production build
-npm run lint     # ESLint, including the React Compiler rules
+npm run lint     # ESLint (next/core-web-vitals + next/typescript)
 npx tsc --noEmit # type-check on its own
 ```
 
